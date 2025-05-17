@@ -1,0 +1,11 @@
+python=3.8
+pytorch::pytorch==1.5.1
+pytorch::torchvision==0.6.1
+conda-forge::dlib
+fire
+fvcore
+iopath
+matplotlib
+opencv
+pillow
+requests
